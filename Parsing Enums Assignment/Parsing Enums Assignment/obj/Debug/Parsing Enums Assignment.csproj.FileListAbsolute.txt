@@ -1,0 +1,7 @@
+C:\Users\micuc\Documents\GitHub\Parsing-Enums-Assignment\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.exe.config
+C:\Users\micuc\Documents\GitHub\Parsing-Enums-Assignment\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.exe
+C:\Users\micuc\Documents\GitHub\Parsing-Enums-Assignment\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.pdb
+C:\Users\micuc\Documents\GitHub\Parsing-Enums-Assignment\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.AssemblyReference.cache
+C:\Users\micuc\Documents\GitHub\Parsing-Enums-Assignment\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.CoreCompileInputs.cache
+C:\Users\micuc\Documents\GitHub\Parsing-Enums-Assignment\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.exe
+C:\Users\micuc\Documents\GitHub\Parsing-Enums-Assignment\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.pdb
